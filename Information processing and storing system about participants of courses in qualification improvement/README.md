@@ -20,4 +20,4 @@
 
 ## Documentation
 
-Documentation discribes more detailed description of a project in a Lithuanina language.
+Documentation discribes more detailed description of a project in a Lithuanian language.
