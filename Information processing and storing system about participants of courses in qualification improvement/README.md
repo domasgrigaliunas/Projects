@@ -1,8 +1,7 @@
 # Information processing and storing system about participants of courses in qualification improvement 
-
-Date:	January 2017 – May 2017  
-Role:	The only creator and developer  
-Technologies:	C#, SQL, worked using MS Visual Studio 2012  
+**Date**:	January 2017 – May 2017  
+**Role**:	The only creator and developer  
+**Technologies**:	C#, SQL, worked using MS Visual Studio 2012  
 
 ## Description	
   *	Designed a program which allows certified users to import information about participants of courses to the database
