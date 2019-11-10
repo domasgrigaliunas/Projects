@@ -20,4 +20,4 @@
 
 ## Documentation
 
-Documentation (without code) can be found here: [Project documentation (without code).docx](here).
+For more detailed inspection, a documentation (without code) can be found in this catalogue ('Project documentation (without code).docx').
