@@ -1,6 +1,6 @@
 # Student dorm information and tax storage program 
-**Date**:	January 2016 – May 2016
-**Role**:	The only creator and developer  
+**Date**:	January 2016 – May 2016  
+**Role**:	The only creator and developer   
 **Technologies**:	C++, worked using MS Visual Studio 2012  
 
 ## Description	
