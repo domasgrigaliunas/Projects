@@ -20,4 +20,4 @@
 
 ## Documentation
 
-For more detailed inspection, a documentation (without code) can be found in this catalogue ('Project documentation (without code).docx').
+Documentation displays more detailed description of a project in a Lithuanina language.
