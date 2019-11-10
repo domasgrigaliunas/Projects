@@ -17,3 +17,7 @@
 #### Information displayed in a country map.  
   
 ![alt text](UI_Map.JPG)
+
+## Documentation
+
+Documentation (without code) can be found here: [Project documentation (without code).docx](here).
