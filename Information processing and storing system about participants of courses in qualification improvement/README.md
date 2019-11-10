@@ -20,4 +20,4 @@
 
 ## Documentation
 
-Documentation (without code) can be found here: [Project documentation (without code).docx](here).
+Documentation (without code) can be found here: [a relative link](Project documentation (without code).docx).
