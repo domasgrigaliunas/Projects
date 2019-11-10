@@ -10,4 +10,4 @@ This repository contains two projects:
 
 ## Who am I?
 
-Find more about me: [linkedin.com/in/domasgrigaliunas/](linkedin.com/in/domasgrigaliunas/)
+Find more about me: [linkedin.com/in/domasgrigaliunas/](https://www.linkedin.com/in/domasgrigaliunas/)
