@@ -11,3 +11,7 @@ Technologies:	C#, SQL, worked using MS Visual Studio 2012
   *	Created User interface: stored data could be represented in a table or an interactive country’s map, with statistics below
   *	Project was aimed to be implemented in a company
 
+## ScreenShots
+
+![alt text](Information processing and storing system about participants of courses in qualification improvement/Main_window.JPG)
+![alt text](Information processing and storing system about participants of courses in qualification improvement/UI_Map.JPG)
