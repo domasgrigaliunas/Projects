@@ -1,6 +1,6 @@
 # Welcome!
 
-This repository displays Domas Grigaliunas projects and contributions.
+This repository displays Domas Grigaliunas's projects and contributions.
 
 ## Content
 
